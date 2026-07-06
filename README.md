@@ -1,6 +1,12 @@
+# Update
+
+I will no longer work on Cleanrot Editor publicly or other modding software for the dynastywarriors subreddit. I have endured a lot of hate and ungrateful behavior despite doing all of the reversing on my own and making good software for making modding accessible. I am not paid to do any of this and I am done. Going forward, games I build modding software for will be other games such as RWBY GE. If I develop any further software for modding games owned by Koei Tecmo, the software will be private.
+
 # Cleanrot Editor
 
-Cleanrot Editor is a GUI G1M modding tool, inspired by Skyrim's Bodyslide but for Koei Tecmo games that use the G1M format. It's in an early state but G1M modding is currently possible with it, i've even released a sample mod on nexus made possible with Cleanrot Editor called "Ayane Diversity" which is at https://www.nexusmods.com/warriorsorochi3/mods/3
+Cleanrot Editor is a GUI G1M modding tool, inspired by Skyrim's Bodyslide but for Koei Tecmo games that use the G1M format.
+
+Sample mods made possible with Cleanrot on nexus are "Ayane Diversity" and "Lianshi Diversity" which are at https://www.nexusmods.com/warriorsorochi3/mods/3 and https://www.nexusmods.com/dynastywarriors8empires/mods/5?tab=description
 
 # Requirements
 
@@ -10,11 +16,11 @@ When Cleanrot Editor releases the only requirements are Python 3 and Pyglet (han
 
 Cleanrot Editor currently can view and display G1M models as well as supports modding them in their G1M state. You can also see live changes with a preview display so you can visually see the changes as you mod. It supports all G1Ms whether they're character models, troop models, item models, building models, etc.
 
-It's not ready to release yet but when it is the repository will be updated. Barouhcruz Editor will handle G1A/G2A modding, so essentially an animation Editor.
+Barouhcruz Editor will handle G1A/G2A modding, so essentially an animation Editor.
 
 # Mod Potential
 
-You'll have the same potential as Skyrim modders that used Bodyslide, the goal of Cleanrot Editor is to make G1M modding easier. Meaning new custom bodies, changed proportions, etc.
+You'll have even higher potential than Skyrim modders for body modding that used Bodyslide but whereas Bodyslide was predominantly for female models, Cleanrot is for ALL G1Ms.
 
 # Credits
 
