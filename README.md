@@ -1,6 +1,8 @@
 # Update
 
-I will no longer work on Cleanrot Editor publicly or other modding software for the dynastywarriors subreddit. I have endured a lot of hate and ungrateful behavior despite doing all of the reversing on my own and making good software for making modding accessible. I am not paid to do any of this and I am done. Going forward, games I build modding software for will be other games such as RWBY GE. If I develop any further software for modding games owned by Koei Tecmo, the software will be private.
+I will no longer work on Cleanrot Editor publicly due to how the dynastywarriors subreddit reacted. I have endured a lot of hate and ungrateful behavior despite doing all of the reversing on my own and making good software for making modding accessible. I am not paid to do any of this and I am done. Going forward, games I build modding software for will be other games such as RWBY GE. If I develop any further software for modding games owned by Koei Tecmo, the software will be private unless I change my mind
+
+With that established, I will release what i currently have to share for the public. I will not make a guide on how to use, this repository will be archvied with the download accessible but with how immature the redditors were, I have no desire to write up a usage guide.
 
 # Cleanrot Editor
 
