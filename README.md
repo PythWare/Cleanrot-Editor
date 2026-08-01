@@ -6,13 +6,13 @@ With that established, I will release what i currently have to share for the pub
 
 # Cleanrot Editor
 
-Cleanrot Editor is a GUI G1M modding tool, inspired by Skyrim's Bodyslide but for Koei Tecmo games that use the G1M format.
+Cleanrot Editor is a GUI G1M modding tool, inspired by Skyrim's Bodyslide but for Koei Tecmo games that use the G1M format. Meant to be used with Aldnoah Engine
 
 Sample mods made possible with Cleanrot on nexus are "Ayane Diversity" and "Lianshi Diversity" which are at https://www.nexusmods.com/warriorsorochi3/mods/3 and https://www.nexusmods.com/dynastywarriors8empires/mods/5?tab=description
 
 # Requirements
 
-When Cleanrot Editor releases the only requirements are Python 3 and Pyglet (handles the 3D side) which is able to be installed with pip in the command console.
+Python 3 and Pyglet (handles the 3D side) which is able to be installed with pip (i.e., in admin command console use `python -m pip install pyglet`)
 
 # Features
 
