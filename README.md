@@ -6,11 +6,19 @@ With that established, I will release what i currently have to share for the pub
 
 Barouhcruz (G1A/G2A animation editor) will be private along with newer versions of Cleanrot Editor (will have new modes like brush mode that allows modding the vertex of anything on the model currently hovered over, among many other advanced features).
 
-# Cleanrot Editor
+# Cleanrot Editor Public Version 0.9
 
 Cleanrot Editor is a GUI G1M modding tool, inspired by Skyrim's Bodyslide but for Koei Tecmo games that use the G1M format. Meant to be used with Aldnoah Engine
 
 Sample mods made possible with Cleanrot on nexus are "Ayane Diversity" and "Lianshi Diversity" which are at https://www.nexusmods.com/warriorsorochi3/mods/3 and https://www.nexusmods.com/dynastywarriors8empires/mods/5?tab=description
+
+Current GUI/features of the public version 0.9
+
+<img width="1914" height="1024" alt="s5" src="https://github.com/user-attachments/assets/3adf9b72-aaf8-4dda-978d-82ac22cd08de" />
+
+<img width="1913" height="1021" alt="s6" src="https://github.com/user-attachments/assets/f8eb9ea0-69e6-464d-b9e9-ea9c4f330360" />
+
+Screenshots below in the other sections are older screenshots, the screenshots listed above this text are of Cleanrot 0.9
 
 # Requirements
 
