@@ -4,6 +4,8 @@ I will no longer work on Cleanrot Editor publicly due to how the dynastywarriors
 
 With that established, I will release what i currently have to share for the public. I will not make a guide on how to use, this repository will be archvied with the download accessible but with how immature the redditors were, I have no desire to write up a usage guide.
 
+Barouhcruz (G1A/G2A animation editor) will be private along with newer versions of Cleanrot Editor (will have new modes like brush mode that allows modding the vertex of anything on the model currently hovered over, among many other advanced features).
+
 # Cleanrot Editor
 
 Cleanrot Editor is a GUI G1M modding tool, inspired by Skyrim's Bodyslide but for Koei Tecmo games that use the G1M format. Meant to be used with Aldnoah Engine
